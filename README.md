@@ -9,7 +9,7 @@ If you don't have the headers for your kate version retrieve them like
 
     git clone git://anongit.kde.org/kate kate_headers -b v4.12.1
 
-and edit Makefile.
+and change the first variable in the Makefile.
 
 First build support object KateDocument.so by running 
 
