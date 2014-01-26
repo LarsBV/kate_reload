@@ -26,6 +26,8 @@ or
     ln -s $(pwd) ~/.kde4/share/apps/kate/pate/okular_plugin
     ln -s $(pwd)/katepate_okular_plugin.desktop ~/.kde4/share/kde4/services/
 
+then you just need to enable 'Python Plugins' and this plugin in settings.
+
 Requirements
 =================================================
 You'll need build-essentials and python-sip. 
