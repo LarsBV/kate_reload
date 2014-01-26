@@ -33,7 +33,7 @@ You'll need build-essentials and python-sip.
 If you can't find kate includes in your distribution, you will also need 
 git. 
 
-Debian does not seem to have a package for them.
+Debian does not seem to have a package for the includes.
 
 
 Default Shortcuts
