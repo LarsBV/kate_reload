@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Kate/PythonPlugin
+X-KDE-Library=kate_reload
+Name=Reload Plugin
+Comment=Adds a 'Auto-Reload' current file option to the 'View' menu.
+X-Python-2-Compatible=false
